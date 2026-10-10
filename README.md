@@ -9,8 +9,7 @@
 
 - ⚡ Fun fact **⚡ Fun fact I am a quick learner with well developed communication and collaboration skills. In my spare time, I enjoy painting, reading, learning new tech skills.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
